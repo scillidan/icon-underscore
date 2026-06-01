@@ -1,3 +1,5 @@
-# underscore
+<div align="center">
+  <img src="underscore.png" height="32" />
+</div>
 
-<img src="underscore.png" height="50px">
+# underscore
